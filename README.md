@@ -84,8 +84,8 @@ Manipulação de entrada padrão (getline)
 Estruturas de dados simples para histórico de comandos
 
 Tratamento de erros e alocação dinâmica de memória
-
-
+# Foto
+![alt text](image.png)
 
 
 👨‍💻 Autor
