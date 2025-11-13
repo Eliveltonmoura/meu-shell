@@ -47,7 +47,7 @@ Resultado da execução:
 .
 ├── sh238p.c           # Código-fonte principal
 ├── Makefile           # Automação de compilação e criação do zip
-├── test_sh238p.sh     # Script de testes automatizados
+├── teste.sh     # Script de testes automatizados
 └── README.md          # Documentação do projeto
 
 🛠️ Compilação e Execução
@@ -84,6 +84,9 @@ Manipulação de entrada padrão (getline)
 Estruturas de dados simples para histórico de comandos
 
 Tratamento de erros e alocação dinâmica de memória
+
+
+
 
 👨‍💻 Autor
 
