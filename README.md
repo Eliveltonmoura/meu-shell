@@ -5,7 +5,7 @@ Este projeto foi desenvolvido na disciplina Projeto e Implementação de Sistema
 
 O shell implementa os conceitos fundamentais de gerenciamento de processos, chamadas de sistema e entrada/saída (I/O), utilizando funções como fork(), execvp(), waitpid(), dup2() e open().
 
-⚙️ Funcionalidades Implementadas
+# ⚙️ Funcionalidades Implementadas
 
 ✅ Execução de programas externos
 
@@ -29,7 +29,7 @@ exit — encerra o shell
 ✅ Histórico de comandos
 Armazena até 100 comandos digitados durante a sessão atual.
 
-🧪 Testes Automatizados
+# 🧪 Testes Automatizados
 
 Um script de testes (test_sh238p.sh) foi criado para validar todas as funcionalidades do shell.
 
@@ -43,14 +43,14 @@ Resultado da execução:
 [OK] Teste 6: comando history funcionando
 [OK] Teste 7: comando exit encerra shell
 
-🧩 Estrutura do Projeto
+# 🧩 Estrutura do Projeto
 .
 ├── sh238p.c           # Código-fonte principal
 ├── Makefile           # Automação de compilação e criação do zip
 ├── teste.sh     # Script de testes automatizados
 └── README.md          # Documentação do projeto
 
-🛠️ Compilação e Execução
+# 🛠️ Compilação e Execução
 
 Compilar o shell:
 
@@ -71,7 +71,7 @@ Gerar o arquivo ZIP para submissão:
 
 make zip
 
-📚 Conceitos Envolvidos
+# 📚 Conceitos Envolvidos
 
 Criação e gerenciamento de processos (fork, waitpid)
 
@@ -85,11 +85,11 @@ Estruturas de dados simples para histórico de comandos
 
 Tratamento de erros e alocação dinâmica de memória
 # Foto
-![alt text](image.png)
+![alt text](/img/image.png)
 
 
-👨‍💻 Autor
+# 👨‍💻 Autor
 
-Elivelton Moura
+##### Elivelton Moura
 Estudante de Engenharia da Computação – UFC Quixadá
 Apaixonado por sistemas operacionais, programação de baixo nível e desenvolvimento embarcado.
